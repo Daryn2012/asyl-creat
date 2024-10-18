@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+    color: #ff0000;
+}
+form{
+    margin: 50px auto;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #54be58;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #54be58;
+    color: #ccc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 5px 0 15px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    color: #1f4e20;
+}
+a{
+    color: #54be58;
+    text-decoration: none;
+}

@@ -1,0 +1,57 @@
+h1{
+    color: blue;
+    font-size: 50px;
+}
+h2{
+    color: beige;
+    font-size: 50px;
+}
+h3{
+    color: coral;
+    font-size: 50px;
+}
+h4{
+    color: crimson;
+    font-size: 50px;
+}
+h5{
+    color: darkolivegreen;
+    font-size: 50px;
+    text-align: center;
+
+}
+h6{
+    color: cornflowerblue;
+    font-size: 50px;
+}
+p{
+  color: aqua;
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: yellowgreen;
+    font-size: 50px;
+}
+img{
+    width: 500px; 
+    height: auto;
+}
+th{
+ 
+    color: rgb(132, 80, 17);
+    
+}
+tr{
+    
+    color: blue;
+    
+}
+td{
+    
+    color: blue;
+    
+}
